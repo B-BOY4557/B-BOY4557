@@ -1,4 +1,4 @@
-#ABOUT ME :3
+ABOUT ME :3
 
 Hewo, I’m Kyle X3
 
