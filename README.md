@@ -7,8 +7,6 @@ I have interests in, coding, computer science and drawing
 i want to learn to get better with my coding such as new laungeges, my goal is o make some 
 sucsessful software or a game (I am currently working on a game)
 
-if for whatever reason there is a problem dm me on discord at: bboy_
-
 he/him/his
 
 <!---
