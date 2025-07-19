@@ -1,4 +1,4 @@
-<brhello, i'm KyleX3./>
+<br> hello, i'm KyleX3. <br\>
 age 14.
 i'm intresting in coding, hardware and software enginering.
 currently learning python (hopefully gonna get to rust, c# and c++ one day).
