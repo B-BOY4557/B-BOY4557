@@ -1,15 +1,6 @@
-ABOUT ME :3
+hello, i'm KyleX3.
+age 14.
+i'm intresting in coding, hardware and software enginering.
+currently learning python (hopefully gonna get to rust, c# and c++ one day).
 
-Hewo, I’m Kyle X3
-
-I have interests in, coding, computer science and drawing
-
-i want to learn to get better with my coding such as new laungeges, my goal is o make some 
-sucsessful software or a game (I am currently working on a game)
-
-he/him/his
-
-<!---
-B-BOY4557/B-BOY4557 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![KyleX3 vibe](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm4xemFmYTB5YWdtaHNzcTV3M2F3aWtmN2s0czg0dGM4MzB1eG1tdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/W8HbTPp4AbhBgeI97F/giphy.gif)
